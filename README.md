@@ -20,9 +20,9 @@ Tem como objetivo dar os primeiros passos na programação usando a linguagem py
 
     Apresenta um menu com as funções básicas e a de sair (que encerra a aplicação)
     
-    Foi tambem inserido funções para autenticar os valores digitados, antes de que executar a função escolhida, no caso seja saque ou depósito
+    Foi também inserido funções para autenticar os valores digitados, antes de executar a função escolhida, no caso seja saque ou depósito
 
-    Função extratos com mais detalhamento sobre as movimentações
+    Função extrato com mais detalhamento sobre as movimentações
 
     Fluxo agradável para usuários
 
